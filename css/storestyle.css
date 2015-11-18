@@ -1,0 +1,90 @@
+element.style {
+}
+.row-fluid {
+    width: 100%;
+}
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+user agent stylesheetdiv {
+    display: block;
+}
+Inherited from div.container-fluid.content-grid
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+Inherited from div.tygh-content.clearfix
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+Inherited from div#tygh_main_container.ty-helper-container.no-touch
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+Inherited from div#tygh_container.ty-tygh
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+Inherited from body
+body, p, div, li {
+    color: #585858;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+Inherited from html
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+.row-fluid:before, .row-fluid:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+Pseudo ::after element
+.row-fluid:after {
+    clear: both;
+}
+.row-fluid:before, .row-fluid:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+
+.caption {
+
+}
+.caption h4 a, .caption h4{
+    word-wrap: break-word; 
+    width: 200px;
+    white-space: normal;
+    
+}
+
+.container .row div p, div {
+    font-weight: bold;
+}
