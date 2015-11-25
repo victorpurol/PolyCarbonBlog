@@ -1,9 +1,9 @@
 var json = [
   {
-    "Inventory Number":"G-NES00164",
+    "Thumb":"thumbnails/G-NES00164-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Dungeon Magic: Sword of the Elements",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"Working",
@@ -21,12 +21,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00171",
+    "Thumb":"thumbnails/G-NES00171-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Platoon",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -44,12 +45,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00172",
+    "Thumb":"thumbnails/G-NES00172-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Rambo",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -67,12 +69,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00175",
+    "Thumb":"thumbnails/G-NES00175-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Legacy of the Wizard",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -90,12 +93,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00179",
+    "Thumb":"thumbnails/G-NES00179-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Wizardry: Proving Grounds of the Mad Overlord",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"Unknown",
@@ -113,12 +117,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00180",
+    "Thumb":"thumbnails/G-NES00180-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Deadly Towers",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -136,12 +141,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00182",
+    "Thumb":"thumbnails/G-NES00182-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Teenage Mutant Ninja Turtles",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -159,12 +165,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00183",
+    "Thumb":"thumbnails/G-NES00183-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Teenage Mutant Ninja Turtles II: The Arcade Game",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -182,12 +189,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00189",
+    "Thumb":"thumbnails/G-NES00189-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Mystery Quest",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -205,12 +213,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00190",
+    "Thumb":"thumbnails/G-NES00190-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Zoda's Revenge: StarTropics II",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"Working",
@@ -228,12 +237,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00198",
+    "Thumb":"thumbnails/G-NES00198-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Low G Man: The Low Gravity Man",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -251,12 +261,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00211",
+    "Thumb":"thumbnails/G-NES00211-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Rocket Ranger",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -274,12 +285,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00227",
+    "Thumb":"thumbnails/G-NES00227-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Phantom Fighter",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -297,12 +309,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00229",
+    "Thumb":"thumbnails/G-NES00229-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Castlequest",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -320,12 +333,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00233",
+    "Thumb":"thumbnails/G-NES00233-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"P.O.W.: Prisoners of War",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -343,12 +357,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00235",
+    "Thumb":"thumbnails/G-NES00235-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Ikari Warriors II: Victory Road",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -366,12 +381,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00238",
+    "Thumb":"thumbnails/G-NES00238-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Section-Z",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -389,12 +405,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00239",
+    "Thumb":"thumbnails/G-NES00239-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Jackal",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -412,12 +429,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00243",
+    "Thumb":"thumbnails/G-NES00243-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Wizards & Warriors",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -435,12 +453,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00246",
+    "Thumb":"thumbnails/G-NES00246-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Time Lord",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -458,12 +477,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00247",
+    "Thumb":"thumbnails/G-NES00247-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Karnov",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -481,12 +501,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00249",
+    "Thumb":"thumbnails/G-NES00249-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Code Name: Viper",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -504,12 +525,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00258",
+    "Thumb":"thumbnails/G-NES00258-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Double Dragon III: The Sacred Stones",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -527,12 +549,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00259",
+    "Thumb":"thumbnails/G-NES00259-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Ikari III: The Rescue",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -550,12 +573,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00260",
+    "Thumb":"thumbnails/G-NES00260-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Dragon Power",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -573,12 +597,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00266",
+    "Thumb":"thumbnails/G-NES00266-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"RoboCop",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -596,12 +621,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00270",
+    "Thumb":"thumbnails/G-NES00270-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Golgo 13: Top Secret Episode",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -619,12 +645,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00271",
+    "Thumb":"thumbnails/G-NES00271-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Mafat Conspiracy, The",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -642,35 +669,14 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
+  
   {
-    "Inventory Number":"G-NES00272",
-    "Lot Number":171708944076,
-    "Title":"Adventures of Lolo",
-    "Sleeve":"img/megaman.jpg",
-    "Pins Cleaned":"Yes",
-    "Working":"Yes",
-    "Battery":"N/A",
-    "Cleaned":"Yes",
-    "Front Label":"Good",
-    "Rear Label":"Good",
-    "Cart Plastic":"Good",
-    "Cart Condition Details / Misc Game Details":"",
-    "Box Condition":"N/A",
-    "Box Condition Details":"",
-    "Manual Condition":"Good",
-    "Manual Condition Details":"Manual has slight corner creasing.",
-    "Map / Poster Condition":"N/A",
-    "Map Condition Details":"",
-    "Insert Condition":"N/A",
-    "Warranty Card":"No",
-    "Insert Condition Details":""
-  },
-  {
-    "Inventory Number":"G-NES00273",
+    "Thumb":"thumbnails/G-NES00273-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Ninja Gaiden II: The Dark Sword of Chaos",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -688,35 +694,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00277",
-    "Lot Number":171708944076,
-    "Title":"King's Knight",
-    "Sleeve":"img/megaman.jpg",
-    "Pins Cleaned":"Yes",
-    "Working":"Yes",
-    "Battery":"N/A",
-    "Cleaned":"Yes",
-    "Front Label":"Good",
-    "Rear Label":"Very Good",
-    "Cart Plastic":"Good",
-    "Cart Condition Details / Misc Game Details":"",
-    "Box Condition":"N/A",
-    "Box Condition Details":"",
-    "Manual Condition":"N/A",
-    "Manual Condition Details":"",
-    "Map / Poster Condition":"N/A",
-    "Map Condition Details":"",
-    "Insert Condition":"N/A",
-    "Warranty Card":"No",
-    "Insert Condition Details":""
-  },
-  {
-    "Inventory Number":"G-NES00282",
+    "Thumb":"thumbnails/G-NES00282-thumb.jpg",
     "Lot Number":171708944076,
     "Title":"Milon's Secret Castle",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -734,12 +718,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00368",
+    "Thumb":"thumbnails/G-NES00368-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Astyanax",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -757,12 +742,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00373",
+    "Thumb":"thumbnails/G-NES00373-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Blaster Master",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -780,12 +766,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00380",
+    "Thumb":"thumbnails/G-NES00380-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Code Name: Viper",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -803,12 +790,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00389",
+    "Thumb":"thumbnails/G-NES00389-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Ghosts n' Goblins",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -826,12 +814,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00396",
+    "Thumb":"thumbnails/G-NES00396-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Kid Icarus",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -849,12 +838,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00397",
+    "Thumb":"thumbnails/G-NES00397-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Kirby's Adventure",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -872,12 +862,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00398",
+    "Thumb":"thumbnails/G-NES00398-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Legacy of the Wizard",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -895,12 +886,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00399",
+    "Thumb":"thumbnails/G-NES00399-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Life Force",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -918,12 +910,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00400",
+    "Thumb":"thumbnails/G-NES00400-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Little Nemo: The Dream Master",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"",
     "Battery":"N/A",
@@ -941,12 +934,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00408",
+    "Thumb":"thumbnails/G-NES00408-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Metroid (original -- silver label)",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -964,12 +958,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00413",
+    "Thumb":"thumbnails/G-NES00413-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Ninja Gaiden",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -987,12 +982,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00414",
+    "Thumb":"thumbnails/G-NES00414-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Ninja Gaiden II: The Dark Sword of Chaos",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1010,12 +1006,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00416",
+    "Thumb":"thumbnails/G-NES00416-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Chip 'n Dale: Rescue Rangers",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1033,12 +1030,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00420",
+    "Thumb":"thumbnails/G-NES00420-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Section-Z",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1056,12 +1054,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00421",
+    "Thumb":"thumbnails/G-NES00421-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"StarTropics",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1079,12 +1078,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00430",
+    "Thumb":"thumbnails/G-NES00430-thumb.jpg",
     "Lot Number":221738212031,
     "Title":"Teenage Mutant Ninja Turtles III The Manhattan Project",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1102,12 +1102,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00472",
+    "Thumb":"thumbnails/G-NES00472-thumb.jpg",
     "Lot Number":251920152778,
     "Title":"Kabuki Quantum Fighter",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1125,12 +1126,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00490",
+    "Thumb":"thumbnails/G-NES00490-thumb.jpg",
     "Lot Number":null,
     "Title":"Battle of Olympus, The",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1148,12 +1150,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00585",
+    "Thumb":"thumbnails/G-NES00585-thumb.jpg",
     "Lot Number":261895488798,
     "Title":"Incredible Crash Test Dummies",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1171,12 +1174,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00618",
+    "Thumb":"thumbnails/G-NES00618-thumb.jpg",
     "Lot Number":111681270333,
     "Title":"Race America",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1194,12 +1198,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00629",
+    "Thumb":"thumbnails/G-NES00629-thumb.jpg",
     "Lot Number":151696762747,
     "Title":"Mike Tyson's Punch Out!!!",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1217,35 +1222,14 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
+
   {
-    "Inventory Number":"G-NES00650",
-    "Lot Number":251964573488,
-    "Title":"Punch Out",
-    "Sleeve":"img/megaman.jpg",
-    "Pins Cleaned":"No",
-    "Working":"",
-    "Battery":"N/A",
-    "Cleaned":"",
-    "Front Label":"",
-    "Rear Label":"",
-    "Cart Plastic":"",
-    "Cart Condition Details / Misc Game Details":"",
-    "Box Condition":"N/A",
-    "Box Condition Details":"",
-    "Manual Condition":"N/A",
-    "Manual Condition Details":"",
-    "Map / Poster Condition":"N/A",
-    "Map Condition Details":"",
-    "Insert Condition":"N/A",
-    "Warranty Card":"No",
-    "Insert Condition Details":""
-  },
-  {
-    "Inventory Number":"G-NES00677",
+    "Thumb":"thumbnails/G-NES00677-thumb.jpg",
     "Lot Number":181770652230,
     "Title":"Mario Bros.",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1263,12 +1247,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00685",
+    "Thumb":"thumbnails/G-NES00685-thumb.jpg",
     "Lot Number":181770652230,
     "Title":"Tiny Toon Adventures",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1286,12 +1271,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00700",
+    "Thumb":"thumbnails/G-NES00700-thumb.jpg",
     "Lot Number":181770652230,
     "Title":"Batman",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"",
     "Battery":"N/A",
@@ -1309,12 +1295,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00798",
+    "Thumb":"thumbnails/G-NES00798-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Pro Wrestling",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1332,12 +1319,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00800",
+    "Thumb":"thumbnails/G-NES00800-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Paperboy 2",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1355,12 +1343,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00802",
+    "Thumb":"thumbnails/G-NES00802-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Legend of Zelda, The (gray)",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"Working",
@@ -1378,12 +1367,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00803",
+    "Thumb":"thumbnails/G-NES00803-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Kung Fu",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1401,12 +1391,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00808",
+    "Thumb":"thumbnails/G-NES00808-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Tecmo Bowl",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1424,12 +1415,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00813",
+    "Thumb":"thumbnails/G-NES00813-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Robin Hood: Prince of Thieves",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"No",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1447,12 +1439,13 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00815",
+    "Thumb":"thumbnails/G-NES00815-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Goonies II, The",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1470,12 +1463,61 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   },
   {
-    "Inventory Number":"G-NES00817",
+    "Thumb":"thumbnails/G-NES00272-thumb.jpg",
+    "Lot Number":171708944076,
+    "Title":"Adventures of Lolo",
+    "Sleeve":"img/example3.jpg",
+    "Pins Cleaned":"Yes",
+    "Working":"Yes",
+    "Battery":"N/A",
+    "Cleaned":"Yes",
+    "Front Label":"Good",
+    "Rear Label":"Good",
+    "Cart Plastic":"Good",
+    "Cart Condition Details / Misc Game Details":"",
+    "Box Condition":"N/A",
+    "Box Condition Details":"",
+    "Manual Condition":"Good",
+    "Manual Condition Details":"Manual has slight corner creasing.",
+    "Map / Poster Condition":"N/A",
+    "Map Condition Details":"",
+    "Insert Condition":"N/A",
+    "Warranty Card":"No",
+    "Insert Condition Details":""
+
+  },
+  {
+    "Thumb":"thumbnails/G-NES00650-thumb.jpg",
+    "Lot Number":251964573488,
+    "Title":"Punch Out",
+    "Sleeve":"img/example3.jpg",
+    "Pins Cleaned":"No",
+    "Working":"",
+    "Battery":"N/A",
+    "Cleaned":"",
+    "Front Label":"",
+    "Rear Label":"",
+    "Cart Plastic":"",
+    "Cart Condition Details / Misc Game Details":"",
+    "Box Condition":"N/A",
+    "Box Condition Details":"",
+    "Manual Condition":"N/A",
+    "Manual Condition Details":"",
+    "Map / Poster Condition":"N/A",
+    "Map Condition Details":"",
+    "Insert Condition":"N/A",
+    "Warranty Card":"No",
+    "Insert Condition Details":""
+
+  },
+  {
+    "Thumb":"thumbnails/G-NES00817-thumb.jpg",
     "Lot Number":281725177295,
     "Title":"Ivan 'Ironman' Stewart's Super Off Road",
-    "Sleeve":"img/megaman.jpg",
+    "Sleeve":"img/example3.jpg",
     "Pins Cleaned":"Yes",
     "Working":"Yes",
     "Battery":"N/A",
@@ -1493,6 +1535,7 @@ var json = [
     "Insert Condition":"N/A",
     "Warranty Card":"No",
     "Insert Condition Details":""
+
   }
 ];
 
@@ -1503,27 +1546,12 @@ markup += "<div class='col-sm-4 col-lg-4 col-md-4 product' data-name='" + json[i
                     //     <div class="thumbnail">
 markup += "<div class='thumbnail'>"
                    //      <img src="http://placehold.it/320x150" alt="">
-markup += "<img src='"+ json[i].Sleeve + "'>"
-markup+="</div> "
-                    //         <div class="caption">
-markup += "<div class='caption'>"
-                    //             <h4 class="pull-right">$24.99</h4>
-                    //             <h4><a href="#">First Product</a>
+markup += "<img src='"+ json[i].Thumb + "'>"
+                    //             <h4><a href="#">Product</a>
 markup += "<h4><a href='#'>" + json[i].Title +" </a></h4></div></div>"
                     //             </h4>
-                    //             <p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>                  
                     //         </div>
-                    //         <div class="ratings">
-                    //             <p class="pull-right">15 reviews</p>
-                    //             <p>
-                    //                 <span class="glyphicon glyphicon-star"></span>
-                    //                 <span class="glyphicon glyphicon-star"></span>
-                    //                 <span class="glyphicon glyphicon-star"></span>
-                    //                 <span class="glyphicon glyphicon-star"></span>
-                    //                 <span class="glyphicon glyphicon-star"></span>
-//markup += "<div class=''>"  
-                    //             </p>
-                    //         </div>
+                    //         
                     //     </div>
                     // </div>
 }

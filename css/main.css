@@ -3,9 +3,15 @@
 } 
 
 .subheading{
-	color: rgba(230, 255, 255,.8) ;
+	color: rgba(230, 255, 255,.8);
 }
 
  hr.header-break{
  	border-color: rgba(230, 255, 255,.8);
 }
+
+h1 , span.meta {
+	color: rgba(230, 255, 255,.8);
+
+}
+
